@@ -35,7 +35,6 @@ Custom-Hand-Gesture-Detection/
 ├── .gitignore
 ├── README.md
 ├── data.yaml
-├── .gitignore
 ├── train.py
 ├── test.py
 └── webcam.py
