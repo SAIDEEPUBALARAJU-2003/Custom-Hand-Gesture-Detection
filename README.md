@@ -32,14 +32,13 @@ The **Custom Hand Gesture Detection** project is a real-time computer vision app
 ```
 Custom-Hand-Gesture-Detection/
 │
-├── train.py
-├── resume_train.py
-├── test.py
-├── webcam.py
-├── data.yaml
-├── requirements.txt
 ├── .gitignore
-└── README.md
+├── README.md
+├── data.yaml
+├── .gitignore
+├── train.py
+├── test.py
+└── webcam.py
 ```
 
 ---
@@ -76,15 +75,6 @@ python train.py
 
 ---
 
-## Resume Training
-
-Continue training from the last checkpoint:
-
-```bash
-python resume_train.py
-```
-
----
 
 ## Testing the Model
 
